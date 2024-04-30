@@ -1,0 +1,14 @@
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\obj\Debug\net8.0\SistemaDeEstacionamento_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\obj\Debug\net8.0\SistemaDeEstacionamento_C#.AssemblyInfoInputs.cache
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\obj\Debug\net8.0\SistemaDeEstacionamento_C#.AssemblyInfo.cs
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\obj\Debug\net8.0\SistemaDeEstacionamento_C#.csproj.CoreCompileInputs.cache
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\bin\Debug\net8.0\SistemaDeEstacionamento_C#.exe
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\bin\Debug\net8.0\SistemaDeEstacionamento_C#.deps.json
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\bin\Debug\net8.0\SistemaDeEstacionamento_C#.runtimeconfig.json
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\bin\Debug\net8.0\SistemaDeEstacionamento_C#.dll
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\bin\Debug\net8.0\SistemaDeEstacionamento_C#.pdb
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\obj\Debug\net8.0\SistemaDeEstacionamento_C#.dll
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\obj\Debug\net8.0\refint\SistemaDeEstacionamento_C#.dll
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\obj\Debug\net8.0\SistemaDeEstacionamento_C#.pdb
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\obj\Debug\net8.0\SistemaDeEstacionamento_C#.genruntimeconfig.cache
+C:\Users\darkr\Documents\SistemaDeEstacionamento_C#\obj\Debug\net8.0\ref\SistemaDeEstacionamento_C#.dll
